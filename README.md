@@ -9,4 +9,4 @@ I am testing how to add branches
 
 Why was this not added to the branch?
 
-[link](test_file)
+[link](test_file.md)
